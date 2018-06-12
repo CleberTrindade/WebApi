@@ -1,0 +1,13 @@
+D:\Arquivos\01 - Pessoais\Git\WebApi\RestauranteApi\RestauranteApi.Data\bin\Debug\RestauranteApi.Data.dll.config
+D:\Arquivos\01 - Pessoais\Git\WebApi\RestauranteApi\RestauranteApi.Data\bin\Debug\RestauranteApi.Data.dll
+D:\Arquivos\01 - Pessoais\Git\WebApi\RestauranteApi\RestauranteApi.Data\bin\Debug\RestauranteApi.Data.pdb
+D:\Arquivos\01 - Pessoais\Git\WebApi\RestauranteApi\RestauranteApi.Data\bin\Debug\EntityFramework.dll
+D:\Arquivos\01 - Pessoais\Git\WebApi\RestauranteApi\RestauranteApi.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Arquivos\01 - Pessoais\Git\WebApi\RestauranteApi\RestauranteApi.Data\bin\Debug\RestauranteApi.Domain.dll
+D:\Arquivos\01 - Pessoais\Git\WebApi\RestauranteApi\RestauranteApi.Data\bin\Debug\RestauranteApi.Domain.pdb
+D:\Arquivos\01 - Pessoais\Git\WebApi\RestauranteApi\RestauranteApi.Data\bin\Debug\EntityFramework.xml
+D:\Arquivos\01 - Pessoais\Git\WebApi\RestauranteApi\RestauranteApi.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Arquivos\01 - Pessoais\Git\WebApi\RestauranteApi\RestauranteApi.Data\obj\Debug\RestauranteApi.Data.csprojResolveAssemblyReference.cache
+D:\Arquivos\01 - Pessoais\Git\WebApi\RestauranteApi\RestauranteApi.Data\obj\Debug\RestauranteApi.Data.csproj.CoreCompileInputs.cache
+D:\Arquivos\01 - Pessoais\Git\WebApi\RestauranteApi\RestauranteApi.Data\obj\Debug\RestauranteApi.Data.dll
+D:\Arquivos\01 - Pessoais\Git\WebApi\RestauranteApi\RestauranteApi.Data\obj\Debug\RestauranteApi.Data.pdb

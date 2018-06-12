@@ -1,0 +1,12 @@
+D:\Arquivos\01 - Pessoais\Guit\WebApi\RestauranteApi\RestauranteApi.Domain\bin\Debug\RestauranteApi.Domain.dll
+D:\Arquivos\01 - Pessoais\Guit\WebApi\RestauranteApi\RestauranteApi.Domain\bin\Debug\RestauranteApi.Domain.pdb
+D:\Arquivos\01 - Pessoais\Guit\WebApi\RestauranteApi\RestauranteApi.Domain\obj\Debug\RestauranteApi.Domain.csprojResolveAssemblyReference.cache
+D:\Arquivos\01 - Pessoais\Guit\WebApi\RestauranteApi\RestauranteApi.Domain\obj\Debug\RestauranteApi.Domain.csproj.CoreCompileInputs.cache
+D:\Arquivos\01 - Pessoais\Guit\WebApi\RestauranteApi\RestauranteApi.Domain\obj\Debug\RestauranteApi.Domain.dll
+D:\Arquivos\01 - Pessoais\Guit\WebApi\RestauranteApi\RestauranteApi.Domain\obj\Debug\RestauranteApi.Domain.pdb
+D:\Arquivos\01 - Pessoais\Git\WebApi\RestauranteApi\RestauranteApi.Domain\bin\Debug\RestauranteApi.Domain.dll
+D:\Arquivos\01 - Pessoais\Git\WebApi\RestauranteApi\RestauranteApi.Domain\bin\Debug\RestauranteApi.Domain.pdb
+D:\Arquivos\01 - Pessoais\Git\WebApi\RestauranteApi\RestauranteApi.Domain\obj\Debug\RestauranteApi.Domain.csprojResolveAssemblyReference.cache
+D:\Arquivos\01 - Pessoais\Git\WebApi\RestauranteApi\RestauranteApi.Domain\obj\Debug\RestauranteApi.Domain.csproj.CoreCompileInputs.cache
+D:\Arquivos\01 - Pessoais\Git\WebApi\RestauranteApi\RestauranteApi.Domain\obj\Debug\RestauranteApi.Domain.dll
+D:\Arquivos\01 - Pessoais\Git\WebApi\RestauranteApi\RestauranteApi.Domain\obj\Debug\RestauranteApi.Domain.pdb
